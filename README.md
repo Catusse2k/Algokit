@@ -1,5 +1,5 @@
 
-# Algokit
+# Inquisitor - Algokit
 
 A small C++17 toolkit of classic algorithms with built-in self-tests and no external dependencies.
 
